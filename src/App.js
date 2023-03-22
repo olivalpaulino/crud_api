@@ -1,9 +1,12 @@
 import './App.css';
 
+// importacao de componentes
+import Formulario from "./components/Formulario";
+
 function App() {
   return (
     <div className="App">
-      <h1>CRUD API REACT</h1>
+      <Formulario titulo={"Formulário de Cadastro React"} />
     </div>
   );
 }
