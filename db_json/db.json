@@ -1,0 +1,39 @@
+{
+  "crudapi": [
+    {
+      "nome": "Olival",
+      "sobrenome": "Paulino dos Santos Neto",
+      "cpf": "123.456.789-00",
+      "data_nascimento": "27/05/1993",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nome": "Camila",
+      "sobrenome": "Santos",
+      "cpf": "100.000.000-00",
+      "data_nascimento": "20/05/1993"
+    },
+    {
+      "id": 4,
+      "nome": "Marilia",
+      "sobrenome": "Mendonça",
+      "cpf": "300.000.000-00",
+      "data_nascimento": "31/08/2001"
+    },
+    {
+      "nome": "Jessica",
+      "sobrenome": "Ferreira",
+      "cpf": "123.123.123-12",
+      "data_nascimento": "19/12/1990",
+      "id": 6
+    },
+    {
+      "nome": "José",
+      "sobrenome": "Raimundo",
+      "cpf": "400.000.000-00",
+      "data_nascimento": "19/12/1990",
+      "id": 7
+    }
+  ]
+}

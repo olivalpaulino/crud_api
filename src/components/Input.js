@@ -1,7 +1,7 @@
-function Input({props, name, onChange}) {
+function Input({props, name, onChange, value}) {
   return (
     <div>
-        <label>{props}<input type="text" name={name} onChange={onChange}></input></label>
+        <label>{props}<input type="text" name={name} onChange={onChange} value={value}></input></label>
     </div>
   )
 }
